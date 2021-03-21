@@ -6,13 +6,20 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19433ef4-0177-4bcb-a406-dbc5f541b5a5" name="Default Changelist" comment="" />
+    <list default="true" id="19433ef4-0177-4bcb-a406-dbc5f541b5a5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="new_branch1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -168,7 +175,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -187,6 +196,10 @@
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
     <state x="-951" y="283" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1616232305696" />
+    <state x="-1274" y="92" width="1182" height="584" key="DiffContextDialog" timestamp="1616338266876">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1274" y="92" width="1182" height="584" key="DiffContextDialog/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1616338266876" />
     <state width="1205" height="173" key="GridCell.Tab.0.bottom" timestamp="1616232642045">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
